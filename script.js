@@ -11,8 +11,8 @@ let THICKNESS = Math.pow(80, 2),
   mx = 0, my = 0,
   w, h;
 
-const TEXT = "AEGIS IA";
-const SUB_TEXT = "Tech Solutions";
+const TEXT = "GUTOBIELSANTOS";
+const SUB_TEXT = "Desenvolvedor Fullstack";
 
 async function init() {
   if (document.fonts) {
