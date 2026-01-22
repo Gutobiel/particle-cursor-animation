@@ -11,7 +11,7 @@ let THICKNESS = Math.pow(80, 2),
   mx = 0, my = 0,
   w, h;
 
-const TEXT = "GUTOBIELSANTOS";
+const TEXT = "GUTOBIEL";
 const SUB_TEXT = "Desenvolvedor Fullstack";
 
 async function init() {
